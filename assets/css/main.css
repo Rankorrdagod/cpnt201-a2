@@ -24,7 +24,7 @@
     display: block;
   
     /* if an image is made inline, this is a good default */
-    vertical-align: middle;
+    
     max-width: 100%;
   }
   .container {
